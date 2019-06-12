@@ -1,6 +1,6 @@
 '''
 学习使用 turtle 在屏幕上绘制图形
-
+形状：正方形
 @author kakakeven
 '''
 import turtle
